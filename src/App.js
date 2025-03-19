@@ -374,7 +374,7 @@ const OperationalCostsDashboard = () => {
       </div>
       
       {/* Deployment Instructions */}
-      <div className="bg-white rounded-lg shadow-md p-4">
+      {/*<div className="bg-white rounded-lg shadow-md p-4">
         <h2 className="text-xl font-semibold mb-4 text-gray-700">Deployment Guide</h2>
         <div className="text-gray-700">
           <p className="mb-2">Follow these steps to deploy this dashboard to a free hosting platform:</p>
@@ -386,7 +386,7 @@ const OperationalCostsDashboard = () => {
             <li>Deploy to GitHub Pages or Netlify with just a few clicks</li>
           </ol>
         </div>
-      </div>
+      </div>*/}
     </div>
   );
 };
